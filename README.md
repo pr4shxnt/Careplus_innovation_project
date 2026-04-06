@@ -33,5 +33,3 @@ AI development:
     - Notification of medicine reminders on application
     - Voice based interaction with the carebot
     - TTS and STT for voice based interaction
-
-## Idea 2: Virtual Room for lectures where lecturer connects with the classroom deck and student can get context of whats going on in the lecture (Google classroom + collaborative NotebookLM)
