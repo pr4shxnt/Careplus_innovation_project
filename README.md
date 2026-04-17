@@ -2,7 +2,7 @@
 
 Innovation project for semester 2 in Sunway College Kathmandu
 
-## Idea 1: Carebot for the people suffering from dementia
+## Carebot for the people suffering from dementia
 
 Type: Multi-platform (Application + IoT)
 
@@ -33,3 +33,7 @@ AI development:
     - Notification of medicine reminders on application
     - Voice based interaction with the carebot
     - TTS and STT for voice based interaction
+
+
+
+
