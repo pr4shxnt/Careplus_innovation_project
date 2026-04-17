@@ -1,0 +1,22 @@
+# Hardware artifacts and generated files
+build/
+dist/
+out/
+*.bin
+*.hex
+*.elf
+*.map
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Environment/config
+.env
+.env.*
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/

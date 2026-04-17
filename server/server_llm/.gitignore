@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment/config
+.env
+.env.*
+
+# Logs and outputs
+logs/
+*.log
+dist/
+build/
+coverage/
+
+# Notebook/checkpoints
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,19 @@
+# Workspace-level server ignores
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Build/cache output
+dist/
+out/
+coverage/
+.cache/
+*.tsbuildinfo
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
