@@ -147,12 +147,7 @@ Open three terminal windows (or use a task runner):
 
 ## 👥 Contributors
 
-This project was developed with passion by **Team Incognito**:
 
-- **Sanket Shrestha** · [stha-sanket](https://github.com/stha-sanket)
-- **Prashanta Adhikari** · [pr4shxnt](https://github.com/pr4shxnt)
-- **Shreya Khadka**
-- **Sabitra Pachai**
 
 ---
 
